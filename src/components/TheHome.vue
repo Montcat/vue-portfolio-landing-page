@@ -78,6 +78,7 @@
 			background-repeat: no-repeat;
 			background-clip: text;
 			-webkit-background-clip: text;
+			-moz-background-clip: text;
 			background-position: -405px 0;
 			animation: animateText 6s linear infinite;
 		}
