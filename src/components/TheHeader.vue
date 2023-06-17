@@ -21,11 +21,13 @@
 		left: 0;
 		width: 100%;
 		padding: 20px 10%;
-		background-color: transparent;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
 		z-index: 100;
+		background-color: #0315408f;
+		height: 4rem;
+		backdrop-filter: blur(7px);
 	}
 
 	.logo {
