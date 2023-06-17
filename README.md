@@ -1,10 +1,18 @@
 # vue-portfolio-landing-page
 
-This template should help get you started developing with Vue 3 in Vite.
+## Description
 
-## Recommended IDE Setup
+### Developer
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Lamptey Sosthene (Mont King)
+
+### Reference
+
+Codehal
+
+#### Link to youtube channel
+
+https://www.youtube.com/@codehal
 
 ## Customize configuration
 
@@ -27,12 +35,3 @@ npm run dev
 ```sh
 npm run build
 ```
-## Description
-
-### Developer
-Lamptey Sosthene (Mont King)
-
-### Reference
-Codehal
-#### Link to youtube channel
-https://www.youtube.com/@codehal
