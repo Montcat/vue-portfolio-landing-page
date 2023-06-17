@@ -27,3 +27,13 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Description
+
+### Developer
+Lamptey Sosthene (Mont King)
+
+### Reference
+Codehal
+#### Link to youtube channel
+https://www.youtube.com/@codehal
