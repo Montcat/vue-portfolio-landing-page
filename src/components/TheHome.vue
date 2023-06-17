@@ -76,7 +76,7 @@
 			-webkit-text-stroke: 0.5px #fff;
 			background-image: linear-gradient(#00abf0, #00abf0);
 			background-repeat: no-repeat;
-			background-clip: text;
+			-webkit-background-clip: text;
 			background-position: -405px 0;
 			animation: animateText 6s linear infinite;
 		}
